@@ -1,0 +1,6 @@
+logging.level:
+  root: info
+
+rsocket-server:
+  host: localhost
+  port: 7000
